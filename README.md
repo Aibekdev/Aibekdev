@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello, My name is Aibek 👋
 
-<!--
-**Aibekdev/Aibekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an iOS Developer from Karaganda, Kazakhstan
+- 📱 I like building apps
+- 🥅 Currently looking for a job
+- 🥋 BJJ and Grappling practitioner
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Aibekdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aibekdev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+
+<br />
+
+### Languages and tools
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" alt="Swift">][swift]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="30" alt="Git">][git]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub">][github]
+
+
+<br />
+<br />
+
+
+[swift]: https://developer.apple.com/swift/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[linkedin]: https://www.linkedin.com/in/aibekdev
+[telegram]: https://www.telegram.org/aibekdev
+[git]: https://git-scm.com/
