@@ -1,6 +1,6 @@
 ### Hello, My name is Aibek 👋
 
-## I'm an iOS Developer from Karaganda, Kazakhstan
+## I'm an iOS Developer from Astana, Kazakhstan
 - 📱 I like building apps
 - 🥅 Currently looking for a job
 - 🥋 BJJ and Grappling practitioner
