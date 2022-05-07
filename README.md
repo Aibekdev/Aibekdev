@@ -2,7 +2,7 @@
 
 ## I'm an iOS Developer from Astana, Kazakhstan
 - 📱 I like building apps
-- 🥅 Currently looking for a job
+- 🥅 My current goal is to become Junior+ developer in 2022.
 - 🥋 BJJ and Grappling practitioner
 
 ### Connect with me:
